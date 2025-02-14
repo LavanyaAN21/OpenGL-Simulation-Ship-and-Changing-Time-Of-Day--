@@ -32,6 +32,7 @@ Experience a mesmerizing journey with our **OpenGL-based interactive sailing shi
 ---
 
 # 🖥️ **Technical Overview**
+
 - **Built Using:** OpenGL  
 - **Programming Language:** Visual C++  
 - **Environment:** Cross-plat
