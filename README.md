@@ -1,4 +1,4 @@
-# OpenGL-Simulation-Ship-and-Changing-Time-Of-Day--
+# OpenGL-Simulation-Ship-and-Changing-Time-Of-Day--🌅🌌
 
 # README
 
@@ -36,4 +36,5 @@ Experience a mesmerizing journey with our **OpenGL-based interactive sailing shi
 - **Programming Language:** Visual C++  
 - **Environment:** Cross-plat
 
-  ---
+---
+
